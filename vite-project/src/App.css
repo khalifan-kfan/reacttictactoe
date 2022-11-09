@@ -1,0 +1,27 @@
+main {
+  text-align: center;
+  align-items: center;
+  display:flex;
+  flex-direction: column; 
+  background-color: #fff;
+  align-items:center;
+  height: 100vh;
+  width: 50rem;
+  justify-content: center;
+}
+.BoxGrid{
+  display:flex;
+  flex-direction:row;
+  width: 60px;
+  height: 60px;
+}
+div{
+  color: #000;
+}
+.Item{
+  display:flex;
+  width:20px;
+  color: #000;
+  align-items:center;
+  border: 1px solid #000;
+}
