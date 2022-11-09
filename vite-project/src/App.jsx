@@ -61,7 +61,7 @@ useEffect(() => {
   }
   return (
     <main>
-      <div>Tic toc game</div>
+      <div>Tic tac toe game</div>
     
     {winner===""?<>
     <div className='BoxGrid'>
